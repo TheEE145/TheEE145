@@ -4,6 +4,7 @@
 ![](https://img.shields.io/badge/A+-html-critical)
 ![](https://img.shields.io/badge/D+-lua-inactive)
 ![](https://img.shields.io/badge/B-C%23-informational)
+![](https://img.shields.io/badge/A++-theprgl-inactive)
 
 ![](https://github-readme-stats.vercel.app/api?username=TheEE145&show_icons=true&theme=radical&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheEE145&show_icons=true&theme=radical&hide_border=true&layout=compact)
