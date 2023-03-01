@@ -11,3 +11,5 @@
 - [x] can\`t draw
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&color=F7D769&center=true&width=800&height=100&lines=Hi%2C+i+am+TheEE145;i+am+JS+and+TS+arhitector;and+i+know+java+and+cpp)](https://git.io/typing-svg)
+
+discord: TheEE145#0251
